@@ -1,4 +1,1 @@
-Basic linux config files
-
-.gitconfig
-.vimrc
+Basically vim and gitconfig iles
