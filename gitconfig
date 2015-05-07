@@ -1,0 +1,11 @@
+[user]
+	email = ik.ibadkhan@gmail.com
+	name = Ibad Khan
+[alias]
+	st = status
+	ci = commit -v
+	ca = commit --amend -v
+	pu = pull origin -v
+	uncommit = reset --mixed HEAD^
+	backup = reset --hard HEAD^
+	backupref = reset --hard HEAD@{1}
