@@ -15,7 +15,3 @@ set showbreak=" "
 set hlsearch
 set incsearch
 set wildignore+=*.o,*.out,*.obj,*.pyc
-let g:syntastic_check_on_open=1
-let g:syntastic_enable_signs=1
-highlight rightMargin  term=bold ctermbg=grey
-match rightMargin /.\%>80v/
